@@ -60,9 +60,9 @@ We had to make a replica CoSchedule website. They have completely transformed th
 # Our Team Members:-
 - Shahil Varma
 - Priyanshu Kaushik
-- Nitesh Kumar
+- Nitesh Meshram
 - Akshata Jinagond
-- Meenakshi
+- Meenakshi Thakur
 
 # Learnings -
 
